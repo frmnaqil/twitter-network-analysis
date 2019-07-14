@@ -1,7 +1,4 @@
 {
-    "antar calon": [
-        "antarcalon"
-    ],
     "hidup": [
         "idup",
         "life"
@@ -36,7 +33,9 @@
     ],
     "begini": [
         "gini",
-        "bgni"
+        "bgni",
+        "gni",
+        "bgini"
     ],
     "ibu": [
         "ibuk"
@@ -61,7 +60,8 @@
         "taraweh"
     ],
     "lapar": [
-        "kelaperan"
+        "kelaperan",
+        "laper"
     ],
     "antar": [
         "anterin"
@@ -72,7 +72,7 @@
     "dia": [
         "doi"
     ],
-    "di siang": [
+    "siang": [
         "disiang"
     ],
     "bisik": [
@@ -97,7 +97,10 @@
         "godain"
     ],
     "pikir": [
-        "mikirin"
+        "mikirin",
+        "mikir",
+        "fikir",
+        "fikiran"
     ],
     "membuat": [
         "bikin"
@@ -111,7 +114,7 @@
     "tahu": [
         "tau"
     ],
-    "di tempat": [
+    "tempat": [
         "ditempat"
     ],
     "semoga": [
@@ -130,10 +133,10 @@
     "salah": [
         "slah"
     ],
-    "di daerah": [
+    "daerah": [
         "didaerah"
     ],
-    "di desa": [
+    "desa": [
         "didesa"
     ],
     "tanggal": [
@@ -203,7 +206,8 @@
     "dengan": [
         "dgn",
         "dg",
-        "denga"
+        "denga",
+        "dng"
     ],
     "yang terhormat": [
         "yth"
@@ -322,21 +326,14 @@
     "untuk informasi": [
         "fyi"
     ],
-    "di depan": [
+    "depan": [
         "didpn"
-    ],
-    "buy one get one": [
-        "b1g1",
-        "buy 1 get 1"
     ],
     "spoiler": [
         "nyepoiler"
     ],
     "tertinggal": [
         "kudet"
-    ],
-    "lapar": [
-        "laper"
     ],
     "bagaimana": [
         "segimana",
@@ -370,9 +367,6 @@
     "timeline": [
         "timlin"
     ],
-    "hingga": [
-        "sampe"
-    ],
     "tidak bisa": [
         "gabisa"
     ],
@@ -388,9 +382,6 @@
     ],
     "tadinya": [
         "tdnya"
-    ],
-    "right now": [
-        "rn"
     ],
     "menyesal": [
         "nyesel",
@@ -456,7 +447,7 @@
         "temen",
         "tcuy"
     ],
-    "tidak ada": [
+    "tidak_ada": [
         "eweuh",
         "gada",
         "gaada"
@@ -521,10 +512,7 @@
         "ngajakin",
         "ngajak"
     ],
-    "duapuluh lima ribu": [
-        "25rebu"
-    ],
-    "minggu depan": [
+    "minggu": [
         "mingdep"
     ],
     "paham": [
@@ -537,8 +525,10 @@
         "jlas",
         "jelasin"
     ],
-    "tidak jelas": [
-        "gajelas"
+    "tidak_jelas": [
+        "gajelas",
+        "gjls",
+        "gaje"
     ],
     "berisik": [
         "ngomul",
@@ -553,7 +543,7 @@
     "lovely": [
         "luvly"
     ],
-    "boleh juga": [
+    "boleh_juga": [
         "boljug"
     ],
     "iya": [
@@ -599,6 +589,9 @@
     ],
     "merasa": [
         "ngerasa"
+    ],
+    "mereka": [
+        "mrk"
     ],
     "tunggu": [
         "nunggu",
@@ -767,7 +760,8 @@
         "teu",
         "nggk",
         "kaga",
-        "ngak"
+        "ngak",
+        "ngk"
     ],
     "kamu": [
         "kamo",
@@ -842,7 +836,8 @@
         "kl",
         "klo",
         "kalo",
-        "klu"
+        "klu",
+        "klau"
     ],
     "kenapa": [
         "knp",
@@ -963,7 +958,8 @@
         "dengerin"
     ],
     "secara": [
-        "scra"
+        "scra",
+        "scr"
     ],
     "selesai": [
         "kelar"
@@ -1027,7 +1023,8 @@
     ],
     "bukan": [
         "bknnya",
-        "bknya"
+        "bknya",
+        "bkn"
     ],
     "undang-undang": [
         "uu"
@@ -1124,6 +1121,54 @@
     ],
     "adalah": [
         "adl"
+    ],
+    "kemana": [
+        "kmn"
+    ],
+    "bos": [
+        "boss"
+    ],
+    "arti": [
+        "brrti"
+    ],
+    "akhirat": [
+        "akherat"
+    ],
+    "negeri": [
+        "negri"
+    ],
+    "hukum": [
+        "hkm"
+    ],
+    "bapak": [
+        "bpk"
+    ],
+    "hitung": [
+        "ngitung"
+    ],
+    "buruk": [
+        "terburuk"
+    ],
+    "allah": [
+        "alloh",
+        "allaah",
+        "insyallh",
+        "insaallah",
+        "inshaallah"
+    ],
+    "batal": [
+        "batalkan"
+    ],
+    "golput": [
+        "golpu"
+    ],
+    "uang": [
+        "duit"
+    ],
+    "coblos": [
+        "tercoblos"
+    ],
+    "namun": [
+        "nmun"
     ]
-    
 }
